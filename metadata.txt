@@ -11,7 +11,7 @@ name=Temperature Map
 qgisMinimumVersion=2.0
 description=Test
 version=0.1
-author=Najla Touati and Thomas Gardes
+author=Thomas
 email=thomasgardes.31@gmail.com
 
 about=Test
